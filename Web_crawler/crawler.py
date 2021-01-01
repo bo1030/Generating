@@ -20,3 +20,7 @@ for i in range(start_y, finish_y + 1):
                     img = f.read()
                     h.write(img)
         n = n + 1
+
+
+
+
