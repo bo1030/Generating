@@ -15,3 +15,7 @@ collect map and aerial photographs by KAKAO maps.
 
 ## training sets
 1500 map and 1500 photographs are collected through web crawler
+
+## training code
+I referred to the Tensorflow document.
+    https://www.tensorflow.org/tutorials/generative/pix2pix
