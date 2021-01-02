@@ -14,4 +14,4 @@ collect map and aerial photographs by KAKAO maps.
 
 
 ## training sets
-5000 map and 5000 photographs are collected through web crawler
+1500 map and 1500 photographs are collected through web crawler
