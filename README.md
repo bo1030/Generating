@@ -11,7 +11,10 @@ collect map and aerial photographs by KAKAO maps.
 
     https://map.kakao.com/
 
-
+## How To Crwaling
+1. find locations with scale you want to collect
+2. change the url
+3. run the code
 
 ## training sets
 1500 map and 1500 photographs are collected through web crawler
@@ -20,3 +23,4 @@ collect map and aerial photographs by KAKAO maps.
 I referred to the Tensorflow document.
 
     https://www.tensorflow.org/tutorials/generative/pix2pix
+
